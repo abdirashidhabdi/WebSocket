@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ''' 
 	Program name:	TCPClientProgram.py
-	Developed by:	Abdirashid Hussein Abdi
+	Developed by:	Abdirashid Abdi
 
 
 ''' 
